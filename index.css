@@ -107,3 +107,8 @@ body {
 .smalltext {
     font-size: 10px;
 }
+
+.insidesidenav:hover {
+    color: #fc8019;
+    ;
+}
